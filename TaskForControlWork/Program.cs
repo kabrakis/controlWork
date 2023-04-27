@@ -25,3 +25,5 @@ void Print1DArray(string[] arr)
     }
     Console.WriteLine(arr[arr.Length - 1] + "]");
 }
+BuilderSecArrWhithElmLessThreeOnFistArr(array1, array2);
+Print1DArray(array2);
